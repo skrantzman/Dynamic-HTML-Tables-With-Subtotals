@@ -1,4 +1,4 @@
-  // CREATE DYNAMIC TABLES WITH OPTIONAL SUBTOTALS ROW.
+  // CREATE DYNAMIC TABLES WITH OPTIONAL SUBTOTALS ROW
   function CreateDynamicTable(target, heading, tblid = "", subtotal, XFD, p1Name, p1, p2Name = "ddl2", p2 = 0) {
     
     // REQUEST JSON DATA FROM FEED
