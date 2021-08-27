@@ -13,7 +13,7 @@ I cannot take credit for writing all of this code, as several snippets of it cam
 What I can take credit for is, uniquely combining those code snippets with my own code to dynamically generate html tables with subtotals from JSON with DataTables functionality added.
 
 ##  The Detail
-Here is the script file: https://github.com/skrantzman/Dynamic-Datatables-With-Subtotals/blob/master/Dynamic%20Tables%20with%20Subtotals.js.  An explanation of one of the pages that I use this script on, is below. Although I have comments throughout the script, this may be helpful in understanding the code structure,how it works, and why it is even needed.
+Here is the script file: https://github.com/skrantzman/Dynamic-Datatables-With-Subtotals/blob/master/Dynamic%20Tables%20with%20Subtotals.js.  An explanation of one of the pages that I use this script on, is below. Although I have comments throughout the script, this may be helpful in understanding the code structure, how it works, and why it is even needed.
 
 This script runs on a reports page, for an organization that utilizes volunteers to put on remote clinics. Each clinic consists of multiple departments, which consists of multiple assignments, and the clinic may run from one to any numbers of days. As each clinic is different, you would have to agree that we never know how many days are going to be in the report/table until we set the parameters and run the report. 
 
